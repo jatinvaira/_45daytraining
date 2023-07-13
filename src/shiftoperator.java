@@ -24,7 +24,7 @@ public class shiftoperator {
 
         
         System.out.println("x>>>2 is "+ (x>>>2));
-        System.out.println("y>>>2 is "+ (y>>>2));
+        System.out.println("yD>>>2 is "+ (y>>>2));
 
     }
 }
