@@ -1,1 +1,5 @@
-    public static void main(String[] a
+
+
+// public class interface3 {
+    
+// }
