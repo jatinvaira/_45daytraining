@@ -1,6 +1,5 @@
-// import java.io.IOException;
-
-public class exceptions {   
+public class FINALLY {
+    // if there is somethinfg you relly wannt to use then the finally is used
     public static void main(String[] args) {
         
         try{
@@ -15,10 +14,8 @@ public class exceptions {
             System.err.println("string daal di tumne bhaiya");
 
         }
-
-        // catch(IOException c){
-        //     System.err.println("keybord khrab h aapka");
-        // }
-
+        finally{
+            System.out.println("\n\nfinally block executed always ");
+        }
     }
 }
